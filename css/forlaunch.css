@@ -1,0 +1,30 @@
+body {
+  background:#2C3E50;
+  font-family:Helvetica, Arial, sans-serif;
+}
+.wrapper {
+  max-width:750px;
+  margin:0 auto;
+}
+.big-stuff {
+  font-weight: 800;
+  color:white;
+  text-shadow: rgba(255, 255, 255, 0.0980392) -2px -2px 2px, rgba(0, 0, 0, 0.498039) 1px 1px 1px;
+}
+.hobby-images img {
+  display:block;
+  margin:15px auto;
+  border-radius:50%;
+}
+.site-images img {
+  display:block;
+  margin:15px auto;
+  border-radius:25%;
+}
+a {
+  color:#E74C3C;
+  text-decoration: none;
+}
+a:hover, a:focus {
+  color:#C0392B;
+}
